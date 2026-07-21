@@ -8,6 +8,14 @@
       "price": "183.80",
       "status": "0"
     },
+    "MAYJ|235142|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
     "MAYJ|235126|20260723|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:05 AM",
@@ -24,11 +32,59 @@
       "price": "183.80",
       "status": "0"
     },
+    "MAYJ|235143|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
     "MAYJ|235125|20260723|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:15 AM",
       "date": "20260723",
       "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235144|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MCSK|14711|20260723|SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SPECIAL",
+      "price": "54.35",
+      "status": "0"
+    },
+    "MCSK|14711|20260723|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MCSK|14715|20260723|SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "SPECIAL",
+      "price": "54.35",
+      "status": "0"
+    },
+    "MCSK|14715|20260723|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
       "price": "183.80",
       "status": "0"
     },
@@ -63,22 +119,6 @@
       "cat": "Second Class",
       "price": "54.35",
       "status": "0"
-    },
-    "MMPR|1441|20260723|EXECUTIVE": {
-      "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "EXECUTIVE",
-      "price": "183.80",
-      "status": "2"
-    },
-    "MMPR|1441|20260723|BUDGET": {
-      "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "3"
     }
   },
   "dates": {
