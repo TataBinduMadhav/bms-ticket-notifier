@@ -8,12 +8,44 @@
       "price": "183.80",
       "status": "0"
     },
+    "MAYJ|235123|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235141|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235141|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
     "MAYJ|235142|20260723|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:00 AM",
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235142|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
       "status": "0"
     },
     "MAYJ|235126|20260723|FIRST CLASS": {
@@ -24,12 +56,44 @@
       "price": "183.80",
       "status": "0"
     },
+    "MAYJ|235126|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235153|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235153|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
     "MAYJ|235124|20260723|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:10 AM",
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235124|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
       "status": "0"
     },
     "MAYJ|235143|20260723|FIRST CLASS": {
@@ -40,6 +104,30 @@
       "price": "183.80",
       "status": "0"
     },
+    "MAYJ|235143|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235149|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235149|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
     "MAYJ|235125|20260723|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:15 AM",
@@ -48,12 +136,124 @@
       "price": "183.80",
       "status": "0"
     },
+    "MAYJ|235125|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235148|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235148|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235127|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235127|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
     "MAYJ|235144|20260723|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:20 AM",
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235144|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235145|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235145|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235150|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235150|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235146|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235146|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235147|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235147|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
       "status": "0"
     },
     "MCSK|14711|20260723|SPECIAL": {
@@ -72,6 +272,22 @@
       "price": "183.80",
       "status": "0"
     },
+    "MCSK|14796|20260723|SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SPECIAL",
+      "price": "54.35",
+      "status": "0"
+    },
+    "MCSK|14796|20260723|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "183.80",
+      "status": "0"
+    },
     "MCSK|14715|20260723|SPECIAL": {
       "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
       "time": "09:10 AM",
@@ -81,6 +297,22 @@
       "status": "0"
     },
     "MCSK|14715|20260723|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MCSK|14805|20260723|SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "SPECIAL",
+      "price": "54.35",
+      "status": "0"
+    },
+    "MCSK|14805|20260723|EXECUTIVE": {
       "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
       "time": "09:10 AM",
       "date": "20260723",
@@ -128,6 +360,22 @@
       "price": "190.00",
       "status": "0"
     },
+    "KMRM|12838|20260723|BALCONY": {
+      "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BALCONY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "KMRM|12838|20260723|FIRST CLASS": {
+      "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
     "RACM|2923|20260723|ELITE": {
       "venue": "RAMDASS CINEMAS A/C DTS: Sunguvarchatram",
       "time": "11:30 AM",
@@ -158,6 +406,54 @@
       "date": "20260723",
       "cat": "Second Class",
       "price": "54.35",
+      "status": "0"
+    },
+    "VECT|7805|20260723|BALCONY": {
+      "venue": "Vela Cinemas RGB 4KLaser DolbyAtmos: Thiruninravur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BALCONY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VECT|7805|20260723|FIRST CLASS": {
+      "venue": "Vela Cinemas RGB 4KLaser DolbyAtmos: Thiruninravur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VECT|7806|20260723|BALCONY": {
+      "venue": "Vela Cinemas RGB 4KLaser DolbyAtmos: Thiruninravur",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "BALCONY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VECT|7806|20260723|FIRST CLASS": {
+      "venue": "Vela Cinemas RGB 4KLaser DolbyAtmos: Thiruninravur",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "1"
+    },
+    "VRCP|3558|20260723|PREMIUM": {
+      "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VRCP|3558|20260723|EXECUTIVE": {
+      "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "190.00",
       "status": "0"
     },
     "ATMG|9418|20260723|FIRST CLASS": {
