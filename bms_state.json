@@ -88,11 +88,51 @@
       "price": "183.80",
       "status": "0"
     },
+    "GKCP|3559|20260723|LOUNGE 1": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "LOUNGE 1",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3559|20260723|SIGNATURE CLASS": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SIGNATURE CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3560|20260723|LOUNGE 1": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "LOUNGE 1",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3560|20260723|SIGNATURE CLASS": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "SIGNATURE CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
     "SUTC|19957|20260723|FIRST CLASS": {
       "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
       "time": "11:00 AM",
       "date": "20260723",
       "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RACM|2923|20260723|ELITE": {
+      "venue": "RAMDASS CINEMAS A/C DTS: Sunguvarchatram",
+      "time": "11:30 AM",
+      "date": "20260723",
+      "cat": "ELITE",
       "price": "190.00",
       "status": "0"
     },
@@ -102,7 +142,7 @@
       "date": "20260723",
       "cat": "First Class",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "WSTC|4275|20260723|First Class": {
       "venue": "Woodlands Theatre: Chennai",
@@ -119,6 +159,14 @@
       "cat": "Second Class",
       "price": "54.35",
       "status": "0"
+    },
+    "ATMG|9418|20260723|FIRST CLASS": {
+      "venue": "Anand Theatre Madhuranthagam RGB LASER 4k",
+      "time": "10:30 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "2"
     }
   },
   "dates": {
