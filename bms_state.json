@@ -1,5 +1,37 @@
 {
   "shows": {
+    "MAYJ|235123|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235126|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235124|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235125|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
     "SUTC|19957|20260723|FIRST CLASS": {
       "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
       "time": "11:00 AM",
@@ -31,6 +63,22 @@
       "cat": "Second Class",
       "price": "54.35",
       "status": "0"
+    },
+    "MMPR|1441|20260723|EXECUTIVE": {
+      "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "183.80",
+      "status": "2"
+    },
+    "MMPR|1441|20260723|BUDGET": {
+      "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "3"
     }
   },
   "dates": {
