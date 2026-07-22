@@ -1,5 +1,37 @@
 {
   "shows": {
+    "KVCS|9054|20260723|BOX A": {
+      "venue": "KC(KrishnaveniCinemas) RG3 LASER DOLBYATMOS TNAGAR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BOX A",
+      "price": "180.00",
+      "status": "0"
+    },
+    "KVCS|9054|20260723|BOX B": {
+      "venue": "KC(KrishnaveniCinemas) RG3 LASER DOLBYATMOS TNAGAR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BOX B",
+      "price": "180.00",
+      "status": "0"
+    },
+    "KVCS|9054|20260723|ELITE": {
+      "venue": "KC(KrishnaveniCinemas) RG3 LASER DOLBYATMOS TNAGAR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "180.00",
+      "status": "0"
+    },
+    "KVCS|9054|20260723|PREMIUM": {
+      "venue": "KC(KrishnaveniCinemas) RG3 LASER DOLBYATMOS TNAGAR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PREMIUM",
+      "price": "60.00",
+      "status": "0"
+    },
     "MAYJ|235123|20260723|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:00 AM",
@@ -70,7 +102,7 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "MAYJ|235153|20260723|SECOND CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -201,6 +233,22 @@
       "status": "0"
     },
     "MAYJ|235145|20260723|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "SECOND CLASS",
+      "price": "57.98",
+      "status": "0"
+    },
+    "MAYJ|235150|20260723|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MAYJ|235150|20260723|SECOND CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:20 AM",
       "date": "20260723",
@@ -368,6 +416,14 @@
       "price": "190.00",
       "status": "0"
     },
+    "SVWT|14118|20260723|FIRSTCLASS": {
+      "venue": "Vigneshwara Theatre RGB Laser: Poonamallee",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRSTCLASS",
+      "price": "190.00",
+      "status": "0"
+    },
     "MMPR|1441|20260723|EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
       "time": "09:00 AM",
@@ -405,14 +461,6 @@
       "time": "11:30 AM",
       "date": "20260723",
       "cat": "ELITE",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SVWT|14118|20260723|FIRSTCLASS": {
-      "venue": "Vigneshwara Theatre RGB Laser: Poonamallee",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "FIRSTCLASS",
       "price": "190.00",
       "status": "0"
     },
@@ -486,7 +534,7 @@
       "date": "20260723",
       "cat": "FAMILY CLASS",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "GRTC|9677|20260723|BALCONY": {
       "venue": "GanapathyRam Theatre 4K Dolby 7.1: Chennai",
@@ -520,6 +568,14 @@
       "price": "190.00",
       "status": "0"
     },
+    "GKGM|1177|20260723|ELITE": {
+      "venue": "Gayathiri Cinemas A/C Dolby Atmos: Maduranthakam",
+      "time": "11:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "2"
+    },
     "AVMT|685|20260723|BOX 1": {
       "venue": "AVM Cinemas: Uthukkottai",
       "time": "09:00 AM",
@@ -543,14 +599,6 @@
       "cat": "ELITE",
       "price": "190.00",
       "status": "0"
-    },
-    "GKGM|1177|20260723|ELITE": {
-      "venue": "Gayathiri Cinemas A/C Dolby Atmos: Maduranthakam",
-      "time": "11:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "190.00",
-      "status": "2"
     }
   },
   "dates": {
