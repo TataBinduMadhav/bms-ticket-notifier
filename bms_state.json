@@ -102,7 +102,7 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "MAYJ|235153|20260723|SECOND CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -336,6 +336,22 @@
       "price": "190.00",
       "status": "0"
     },
+    "SSCC|22826|20260723|Elite": {
+      "venue": "Sivasakthi Cinemas RGB 4K Laser: Padi",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SSCC|22827|20260723|Elite": {
+      "venue": "Sivasakthi Cinemas RGB 4K Laser: Padi",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
     "MCSK|14711|20260723|SPECIAL": {
       "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
       "time": "09:00 AM",
@@ -400,6 +416,22 @@
       "price": "183.80",
       "status": "0"
     },
+    "SBTR|11760|20260723|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11760|20260723|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "0"
+    },
     "KMRM|12838|20260723|BALCONY": {
       "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
       "time": "09:00 AM",
@@ -416,13 +448,61 @@
       "price": "190.00",
       "status": "0"
     },
-    "SVWT|14118|20260723|FIRSTCLASS": {
-      "venue": "Vigneshwara Theatre RGB Laser: Poonamallee",
-      "time": "09:00 AM",
+    "NLTC|11908|20260723|BALCONY": {
+      "venue": "National Theatre 4K Dolby Atmos: Tambaram",
+      "time": "11:00 AM",
       "date": "20260723",
-      "cat": "FIRSTCLASS",
+      "cat": "BALCONY",
       "price": "190.00",
       "status": "0"
+    },
+    "NLTC|11908|20260723|FIRST CLASS": {
+      "venue": "National Theatre 4K Dolby Atmos: Tambaram",
+      "time": "11:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "1"
+    },
+    "SLMP|27587|20260723|ELITE": {
+      "venue": "SLB (LakshmiBala) Movie Park 4K Dolby Atmos: Padi",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SLMP|27587|20260723|FIRST CLASS": {
+      "venue": "SLB (LakshmiBala) Movie Park 4K Dolby Atmos: Padi",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "1"
+    },
+    "SLMP|27588|20260723|BOX": {
+      "venue": "SLB (LakshmiBala) Movie Park 4K Dolby Atmos: Padi",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BOX",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SLMP|27588|20260723|FIRST CLASS": {
+      "venue": "SLB (LakshmiBala) Movie Park 4K Dolby Atmos: Padi",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "1"
+    },
+    "SLMP|27589|20260723|FIRST CLASS": {
+      "venue": "SLB (LakshmiBala) Movie Park 4K Dolby Atmos: Padi",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "1"
     },
     "MMPR|1441|20260723|EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
@@ -456,13 +536,37 @@
       "price": "54.35",
       "status": "0"
     },
+    "MTLM|18901|20260723|PRIME": {
+      "venue": "Mani Talkies 2K RGB Laser ATMOS: Minjur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "190.00",
+      "status": "0"
+    },
+    "MTLM|18902|20260723|PRIME": {
+      "venue": "Mani Talkies 2K RGB Laser ATMOS: Minjur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SVWT|14118|20260723|FIRSTCLASS": {
+      "venue": "Vigneshwara Theatre RGB Laser: Poonamallee",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRSTCLASS",
+      "price": "190.00",
+      "status": "0"
+    },
     "RACM|2923|20260723|ELITE": {
       "venue": "RAMDASS CINEMAS A/C DTS: Sunguvarchatram",
       "time": "11:30 AM",
       "date": "20260723",
       "cat": "ELITE",
       "price": "190.00",
-      "status": "0"
+      "status": "1"
     },
     "JTMV|12945|20260723|First Class": {
       "venue": "VVM Cinemas 3D 2K AC Dts, Ponneri: Chennai",
@@ -552,30 +656,6 @@
       "price": "180.00",
       "status": "0"
     },
-    "VRCP|3558|20260723|PREMIUM": {
-      "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "PREMIUM",
-      "price": "190.00",
-      "status": "0"
-    },
-    "VRCP|3558|20260723|EXECUTIVE": {
-      "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "EXECUTIVE",
-      "price": "190.00",
-      "status": "0"
-    },
-    "GKGM|1177|20260723|ELITE": {
-      "venue": "Gayathiri Cinemas A/C Dolby Atmos: Maduranthakam",
-      "time": "11:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "190.00",
-      "status": "2"
-    },
     "AVMT|685|20260723|BOX 1": {
       "venue": "AVM Cinemas: Uthukkottai",
       "time": "09:00 AM",
@@ -599,6 +679,38 @@
       "cat": "ELITE",
       "price": "190.00",
       "status": "0"
+    },
+    "VRCP|3558|20260723|PREMIUM": {
+      "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VRCP|3558|20260723|EXECUTIVE": {
+      "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "190.00",
+      "status": "1"
+    },
+    "ATMG|9418|20260723|FIRST CLASS": {
+      "venue": "Anand Theatre Madhuranthagam RGB LASER 4k",
+      "time": "10:30 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "1"
+    },
+    "GKGM|1177|20260723|ELITE": {
+      "venue": "Gayathiri Cinemas A/C Dolby Atmos: Maduranthakam",
+      "time": "11:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "1"
     }
   },
   "dates": {
