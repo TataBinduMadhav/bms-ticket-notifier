@@ -256,6 +256,46 @@
       "price": "57.98",
       "status": "0"
     },
+    "GKCP|3559|20260723|LOUNGE 1": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "LOUNGE 1",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3559|20260723|SIGNATURE CLASS": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SIGNATURE CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3560|20260723|LOUNGE 1": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "LOUNGE 1",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3560|20260723|SIGNATURE CLASS": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "SIGNATURE CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SUTC|19957|20260723|FIRST CLASS": {
+      "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
+      "time": "11:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
     "MCSK|14711|20260723|SPECIAL": {
       "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
       "time": "09:00 AM",
@@ -304,46 +344,6 @@
       "price": "183.80",
       "status": "0"
     },
-    "GKCP|3559|20260723|LOUNGE 1": {
-      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "LOUNGE 1",
-      "price": "190.00",
-      "status": "0"
-    },
-    "GKCP|3559|20260723|SIGNATURE CLASS": {
-      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "SIGNATURE CLASS",
-      "price": "190.00",
-      "status": "0"
-    },
-    "GKCP|3560|20260723|LOUNGE 1": {
-      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "LOUNGE 1",
-      "price": "190.00",
-      "status": "0"
-    },
-    "GKCP|3560|20260723|SIGNATURE CLASS": {
-      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "SIGNATURE CLASS",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SUTC|19957|20260723|FIRST CLASS": {
-      "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
-      "time": "11:00 AM",
-      "date": "20260723",
-      "cat": "FIRST CLASS",
-      "price": "190.00",
-      "status": "0"
-    },
     "KMRM|12838|20260723|BALCONY": {
       "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
       "time": "09:00 AM",
@@ -365,6 +365,14 @@
       "time": "11:30 AM",
       "date": "20260723",
       "cat": "ELITE",
+      "price": "190.00",
+      "status": "1"
+    },
+    "SVWT|14118|20260723|FIRSTCLASS": {
+      "venue": "Vigneshwara Theatre RGB Laser: Poonamallee",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRSTCLASS",
       "price": "190.00",
       "status": "0"
     },
@@ -414,7 +422,7 @@
       "date": "20260723",
       "cat": "BALCONY",
       "price": "190.00",
-      "status": "0"
+      "status": "1"
     },
     "VECT|7806|20260723|FIRST CLASS": {
       "venue": "Vela Cinemas RGB 4KLaser DolbyAtmos: Thiruninravur",
@@ -446,7 +454,31 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
-      "status": "2"
+      "status": "1"
+    },
+    "AVMT|685|20260723|BOX 1": {
+      "venue": "AVM Cinemas: Uthukkottai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BOX 1",
+      "price": "190.00",
+      "status": "0"
+    },
+    "AVMT|685|20260723|BOX 2": {
+      "venue": "AVM Cinemas: Uthukkottai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BOX 2",
+      "price": "190.00",
+      "status": "0"
+    },
+    "AVMT|685|20260723|ELITE": {
+      "venue": "AVM Cinemas: Uthukkottai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "1"
     }
   },
   "dates": {
