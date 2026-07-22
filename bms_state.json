@@ -438,7 +438,7 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "VRCP|3558|20260723|PREMIUM": {
       "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
@@ -446,7 +446,7 @@
       "date": "20260723",
       "cat": "PREMIUM",
       "price": "190.00",
-      "status": "0"
+      "status": "1"
     },
     "VRCP|3558|20260723|EXECUTIVE": {
       "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
@@ -454,7 +454,7 @@
       "date": "20260723",
       "cat": "EXECUTIVE",
       "price": "190.00",
-      "status": "0"
+      "status": "1"
     },
     "ATMG|9418|20260723|FIRST CLASS": {
       "venue": "Anand Theatre Madhuranthagam RGB LASER 4k",
