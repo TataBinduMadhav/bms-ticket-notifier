@@ -304,22 +304,6 @@
       "price": "183.80",
       "status": "0"
     },
-    "MCSK|14805|20260723|SPECIAL": {
-      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "SPECIAL",
-      "price": "54.35",
-      "status": "0"
-    },
-    "MCSK|14805|20260723|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "EXECUTIVE",
-      "price": "183.80",
-      "status": "0"
-    },
     "GKCP|3559|20260723|LOUNGE 1": {
       "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
       "time": "09:00 AM",
@@ -446,7 +430,7 @@
       "date": "20260723",
       "cat": "PREMIUM",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "VRCP|3558|20260723|EXECUTIVE": {
       "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
@@ -454,7 +438,7 @@
       "date": "20260723",
       "cat": "EXECUTIVE",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "ATMG|9418|20260723|FIRST CLASS": {
       "venue": "Anand Theatre Madhuranthagam RGB LASER 4k",
