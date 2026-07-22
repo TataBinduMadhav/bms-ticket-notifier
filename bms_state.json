@@ -208,22 +208,6 @@
       "price": "57.98",
       "status": "0"
     },
-    "MAYJ|235150|20260723|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "09:20 AM",
-      "date": "20260723",
-      "cat": "FIRST CLASS",
-      "price": "183.80",
-      "status": "0"
-    },
-    "MAYJ|235150|20260723|SECOND CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "09:20 AM",
-      "date": "20260723",
-      "cat": "SECOND CLASS",
-      "price": "57.98",
-      "status": "0"
-    },
     "MAYJ|235146|20260723|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "09:30 AM",
@@ -296,6 +280,14 @@
       "price": "190.00",
       "status": "0"
     },
+    "SUTC|19961|20260723|FIRST CLASS": {
+      "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
+      "time": "11:30 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
     "MCSK|14711|20260723|SPECIAL": {
       "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
       "time": "09:00 AM",
@@ -344,6 +336,22 @@
       "price": "183.80",
       "status": "0"
     },
+    "MCSK|14805|20260723|SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "SPECIAL",
+      "price": "54.35",
+      "status": "0"
+    },
+    "MCSK|14805|20260723|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "183.80",
+      "status": "0"
+    },
     "KMRM|12838|20260723|BALCONY": {
       "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
       "time": "09:00 AM",
@@ -360,13 +368,45 @@
       "price": "190.00",
       "status": "0"
     },
+    "MMPR|1441|20260723|EXECUTIVE": {
+      "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MMPR|1441|20260723|BUDGET": {
+      "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "MMPR|1466|20260723|EXECUTIVE": {
+      "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "MMPR|1466|20260723|BUDGET": {
+      "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
     "RACM|2923|20260723|ELITE": {
       "venue": "RAMDASS CINEMAS A/C DTS: Sunguvarchatram",
       "time": "11:30 AM",
       "date": "20260723",
       "cat": "ELITE",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "SVWT|14118|20260723|FIRSTCLASS": {
       "venue": "Vigneshwara Theatre RGB Laser: Poonamallee",
@@ -422,7 +462,7 @@
       "date": "20260723",
       "cat": "BALCONY",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "VECT|7806|20260723|FIRST CLASS": {
       "venue": "Vela Cinemas RGB 4KLaser DolbyAtmos: Thiruninravur",
@@ -430,6 +470,38 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
+      "status": "0"
+    },
+    "GRTC|9677|20260723|COUPLE": {
+      "venue": "GanapathyRam Theatre 4K Dolby 7.1: Chennai",
+      "time": "10:00 AM",
+      "date": "20260723",
+      "cat": "COUPLE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GRTC|9677|20260723|FAMILY CLASS": {
+      "venue": "GanapathyRam Theatre 4K Dolby 7.1: Chennai",
+      "time": "10:00 AM",
+      "date": "20260723",
+      "cat": "FAMILY CLASS",
+      "price": "190.00",
+      "status": "1"
+    },
+    "GRTC|9677|20260723|BALCONY": {
+      "venue": "GanapathyRam Theatre 4K Dolby 7.1: Chennai",
+      "time": "10:00 AM",
+      "date": "20260723",
+      "cat": "BALCONY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GRTC|9677|20260723|FIRST CLASS": {
+      "venue": "GanapathyRam Theatre 4K Dolby 7.1: Chennai",
+      "time": "10:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "180.00",
       "status": "0"
     },
     "VRCP|3558|20260723|PREMIUM": {
@@ -447,14 +519,6 @@
       "cat": "EXECUTIVE",
       "price": "190.00",
       "status": "0"
-    },
-    "ATMG|9418|20260723|FIRST CLASS": {
-      "venue": "Anand Theatre Madhuranthagam RGB LASER 4k",
-      "time": "10:30 AM",
-      "date": "20260723",
-      "cat": "FIRST CLASS",
-      "price": "190.00",
-      "status": "1"
     },
     "AVMT|685|20260723|BOX 1": {
       "venue": "AVM Cinemas: Uthukkottai",
@@ -478,7 +542,15 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
+    },
+    "GKGM|1177|20260723|ELITE": {
+      "venue": "Gayathiri Cinemas A/C Dolby Atmos: Maduranthakam",
+      "time": "11:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "2"
     }
   },
   "dates": {
