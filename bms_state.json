@@ -462,7 +462,7 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "SLMP|27587|20260723|ELITE": {
       "venue": "SLB (LakshmiBala) Movie Park 4K Dolby Atmos: Padi",
@@ -478,7 +478,7 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "SLMP|27588|20260723|BOX": {
       "venue": "SLB (LakshmiBala) Movie Park 4K Dolby Atmos: Padi",
@@ -494,7 +494,7 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "SLMP|27589|20260723|FIRST CLASS": {
       "venue": "SLB (LakshmiBala) Movie Park 4K Dolby Atmos: Padi",
@@ -502,7 +502,7 @@
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "MMPR|1441|20260723|EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
@@ -566,7 +566,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "JTMV|12945|20260723|First Class": {
       "venue": "VVM Cinemas 3D 2K AC Dts, Ponneri: Chennai",
