@@ -288,68 +288,324 @@
       "price": "57.98",
       "status": "0"
     },
-    "GKCP|3559|20260723|LOUNGE 1": {
-      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+    "ACON|46001|20260723|DIAMOND": {
+      "venue": "AGS Cinemas OMR: Navlur",
       "time": "09:00 AM",
       "date": "20260723",
-      "cat": "LOUNGE 1",
-      "price": "190.00",
+      "cat": "DIAMOND",
+      "price": "183.00",
       "status": "0"
     },
-    "GKCP|3559|20260723|SIGNATURE CLASS": {
-      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+    "ACON|46001|20260723|PEARL": {
+      "venue": "AGS Cinemas OMR: Navlur",
       "time": "09:00 AM",
       "date": "20260723",
-      "cat": "SIGNATURE CLASS",
-      "price": "190.00",
+      "cat": "PEARL",
+      "price": "54.00",
       "status": "0"
     },
-    "GKCP|3560|20260723|LOUNGE 1": {
-      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
-      "time": "09:05 AM",
+    "ACON|46011|20260723|DIAMOND": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "09:00 AM",
       "date": "20260723",
-      "cat": "LOUNGE 1",
-      "price": "190.00",
+      "cat": "DIAMOND",
+      "price": "183.00",
       "status": "0"
     },
-    "GKCP|3560|20260723|SIGNATURE CLASS": {
-      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
-      "time": "09:05 AM",
+    "ACON|46011|20260723|PEARL": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "09:00 AM",
       "date": "20260723",
-      "cat": "SIGNATURE CLASS",
-      "price": "190.00",
+      "cat": "PEARL",
+      "price": "54.00",
       "status": "0"
     },
-    "SUTC|19957|20260723|FIRST CLASS": {
-      "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
-      "time": "11:00 AM",
+    "ACON|46006|20260723|DIAMOND": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "09:10 AM",
       "date": "20260723",
-      "cat": "FIRST CLASS",
-      "price": "190.00",
+      "cat": "DIAMOND",
+      "price": "183.00",
       "status": "0"
     },
-    "SUTC|19961|20260723|FIRST CLASS": {
-      "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
-      "time": "11:30 AM",
+    "ACON|46006|20260723|PEARL": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "09:10 AM",
       "date": "20260723",
-      "cat": "FIRST CLASS",
-      "price": "190.00",
+      "cat": "PEARL",
+      "price": "54.00",
       "status": "0"
     },
-    "SSCC|22826|20260723|Elite": {
-      "venue": "Sivasakthi Cinemas RGB 4K Laser: Padi",
+    "ACON|46016|20260723|DIAMOND": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACON|46016|20260723|PEARL": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "KSTK|49631|20260723|Super Premium": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Super Premium",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49631|20260723|Premium": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Premium",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49631|20260723|Elite": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
       "time": "09:00 AM",
       "date": "20260723",
       "cat": "Elite",
-      "price": "190.00",
+      "price": "183.78",
       "status": "0"
     },
-    "SSCC|22827|20260723|Elite": {
-      "venue": "Sivasakthi Cinemas RGB 4K Laser: Padi",
-      "time": "09:15 AM",
+    "KSTK|49631|20260723|Economy": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Economy",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49651|20260723|Super Premium": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Super Premium",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49651|20260723|Premium": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Premium",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49651|20260723|Elite": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:10 AM",
       "date": "20260723",
       "cat": "Elite",
-      "price": "190.00",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49651|20260723|Economy": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Economy",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49656|20260723|Super Premium": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "Super Premium",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49656|20260723|Premium": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "Premium",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49656|20260723|Elite": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49656|20260723|Economy": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "Economy",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49685|20260723|Super Premium": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "Super Premium",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49685|20260723|Premium": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "Premium",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49685|20260723|Elite": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "183.78",
+      "status": "0"
+    },
+    "KSTK|49685|20260723|Economy": {
+      "venue": "Kasi Talkies Dolby Atmos: Ashok Nagar",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "Economy",
+      "price": "183.78",
+      "status": "0"
+    },
+    "ACVM|54395|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54395|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACVM|54397|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54397|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACVM|54396|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54396|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACVM|54394|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54394|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACVM|54393|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54393|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACTN|44284|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACTN|44284|20260723|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACTN|44291|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACTN|44291|20260723|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACTN|44289|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACTN|44289|20260723|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
       "status": "0"
     },
     "MCSK|14711|20260723|SPECIAL": {
@@ -416,49 +672,161 @@
       "price": "183.80",
       "status": "0"
     },
-    "SBTR|11760|20260723|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+    "GKCP|3559|20260723|LOUNGE 1": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "LOUNGE 1",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3559|20260723|SIGNATURE CLASS": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SIGNATURE CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3560|20260723|LOUNGE 1": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "LOUNGE 1",
+      "price": "190.00",
+      "status": "0"
+    },
+    "GKCP|3560|20260723|SIGNATURE CLASS": {
+      "venue": "GK Cinemas RGB + Laser SRL 4D: Porur",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "SIGNATURE CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29735|20260723|ELITE": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29735|20260723|ECONOMY": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29740|20260723|ELITE": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29740|20260723|ECONOMY": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29755|20260723|ELITE": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29755|20260723|ECONOMY": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29745|20260723|ELITE": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29745|20260723|ECONOMY": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29750|20260723|ELITE": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:45 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29750|20260723|ECONOMY": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "09:45 AM",
+      "date": "20260723",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29760|20260723|ELITE": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "10:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "VVGT|29760|20260723|ECONOMY": {
+      "venue": "Vels Theatres: Chennai",
+      "time": "10:00 AM",
+      "date": "20260723",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SSCC|22826|20260723|Elite": {
+      "venue": "Sivasakthi Cinemas RGB 4K Laser: Padi",
       "time": "09:00 AM",
       "date": "20260723",
       "cat": "Elite",
       "price": "190.00",
       "status": "0"
     },
-    "SBTR|11760|20260723|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "09:00 AM",
+    "SSCC|22827|20260723|Elite": {
+      "venue": "Sivasakthi Cinemas RGB 4K Laser: Padi",
+      "time": "09:15 AM",
       "date": "20260723",
-      "cat": "PLATINUM",
+      "cat": "Elite",
       "price": "190.00",
       "status": "0"
     },
-    "KMRM|12838|20260723|BALCONY": {
-      "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BALCONY",
-      "price": "190.00",
-      "status": "0"
-    },
-    "KMRM|12838|20260723|FIRST CLASS": {
-      "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
-      "time": "09:00 AM",
+    "SUTC|19957|20260723|FIRST CLASS": {
+      "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
+      "time": "11:00 AM",
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
       "status": "0"
     },
-    "NLTC|11908|20260723|BALCONY": {
-      "venue": "National Theatre 4K Dolby Atmos: Tambaram",
-      "time": "11:00 AM",
-      "date": "20260723",
-      "cat": "BALCONY",
-      "price": "190.00",
-      "status": "0"
-    },
-    "NLTC|11908|20260723|FIRST CLASS": {
-      "venue": "National Theatre 4K Dolby Atmos: Tambaram",
-      "time": "11:00 AM",
+    "SUTC|19961|20260723|FIRST CLASS": {
+      "venue": "Gokulam Cinemas 4K Dolby Atmos: Poonamalle",
+      "time": "11:30 AM",
       "date": "20260723",
       "cat": "FIRST CLASS",
       "price": "190.00",
@@ -504,6 +872,38 @@
       "price": "190.00",
       "status": "0"
     },
+    "SBTR|11760|20260723|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11760|20260723|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "0"
+    },
+    "KMRM|12838|20260723|BALCONY": {
+      "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BALCONY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "KMRM|12838|20260723|FIRST CLASS": {
+      "venue": "Kumaran Theatre PROVA 4K DOLBY ATMOS: Madipakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
+      "price": "190.00",
+      "status": "0"
+    },
     "MMPR|1441|20260723|EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
       "time": "09:00 AM",
@@ -536,11 +936,19 @@
       "price": "54.35",
       "status": "0"
     },
-    "SVWT|14118|20260723|FIRSTCLASS": {
-      "venue": "Vigneshwara Theatre RGB Laser: Poonamallee",
-      "time": "09:00 AM",
+    "NLTC|11908|20260723|BALCONY": {
+      "venue": "National Theatre 4K Dolby Atmos: Tambaram",
+      "time": "11:00 AM",
       "date": "20260723",
-      "cat": "FIRSTCLASS",
+      "cat": "BALCONY",
+      "price": "190.00",
+      "status": "0"
+    },
+    "NLTC|11908|20260723|FIRST CLASS": {
+      "venue": "National Theatre 4K Dolby Atmos: Tambaram",
+      "time": "11:00 AM",
+      "date": "20260723",
+      "cat": "FIRST CLASS",
       "price": "190.00",
       "status": "0"
     },
@@ -557,6 +965,14 @@
       "time": "11:00 AM",
       "date": "20260723",
       "cat": "First Class",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SVWT|14118|20260723|FIRSTCLASS": {
+      "venue": "Vigneshwara Theatre RGB Laser: Poonamallee",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "FIRSTCLASS",
       "price": "190.00",
       "status": "0"
     },
@@ -582,7 +998,7 @@
       "date": "20260723",
       "cat": "BALCONY",
       "price": "190.00",
-      "status": "0"
+      "status": "1"
     },
     "VECT|7805|20260723|FIRST CLASS": {
       "venue": "Vela Cinemas RGB 4KLaser DolbyAtmos: Thiruninravur",
@@ -607,6 +1023,30 @@
       "cat": "FIRST CLASS",
       "price": "190.00",
       "status": "1"
+    },
+    "AVMT|685|20260723|BOX 1": {
+      "venue": "AVM Cinemas: Uthukkottai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BOX 1",
+      "price": "190.00",
+      "status": "0"
+    },
+    "AVMT|685|20260723|BOX 2": {
+      "venue": "AVM Cinemas: Uthukkottai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BOX 2",
+      "price": "190.00",
+      "status": "0"
+    },
+    "AVMT|685|20260723|ELITE": {
+      "venue": "AVM Cinemas: Uthukkottai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "190.00",
+      "status": "0"
     },
     "GRTC|9677|20260723|COUPLE": {
       "venue": "GanapathyRam Theatre 4K Dolby 7.1: Chennai",
@@ -640,43 +1080,11 @@
       "price": "180.00",
       "status": "0"
     },
-    "AVMT|685|20260723|BOX 1": {
-      "venue": "AVM Cinemas: Uthukkottai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BOX 1",
-      "price": "190.00",
-      "status": "0"
-    },
-    "AVMT|685|20260723|BOX 2": {
-      "venue": "AVM Cinemas: Uthukkottai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BOX 2",
-      "price": "190.00",
-      "status": "0"
-    },
-    "AVMT|685|20260723|ELITE": {
-      "venue": "AVM Cinemas: Uthukkottai",
-      "time": "09:00 AM",
+    "GKGM|1177|20260723|ELITE": {
+      "venue": "Gayathiri Cinemas A/C Dolby Atmos: Maduranthakam",
+      "time": "11:00 AM",
       "date": "20260723",
       "cat": "ELITE",
-      "price": "190.00",
-      "status": "0"
-    },
-    "VRCP|3558|20260723|PREMIUM": {
-      "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "PREMIUM",
-      "price": "190.00",
-      "status": "0"
-    },
-    "VRCP|3558|20260723|EXECUTIVE": {
-      "venue": "VR Cinemas RGB 4K LASER DOLBY ATMOS: Pattabiram",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "EXECUTIVE",
       "price": "190.00",
       "status": "1"
     },
@@ -685,14 +1093,6 @@
       "time": "10:30 AM",
       "date": "20260723",
       "cat": "FIRST CLASS",
-      "price": "190.00",
-      "status": "1"
-    },
-    "GKGM|1177|20260723|ELITE": {
-      "venue": "Gayathiri Cinemas A/C Dolby Atmos: Maduranthakam",
-      "time": "11:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
       "price": "190.00",
       "status": "1"
     }
